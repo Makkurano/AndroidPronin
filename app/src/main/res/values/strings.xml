@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">AndroidPronin</string>
+
+    <string name="title_activity_splash_screen">Pronin HomeWork</string>
 </resources>
